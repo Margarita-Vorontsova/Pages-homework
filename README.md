@@ -10,3 +10,5 @@
 
 Список легко пополняется вашими предложениями.
 # Не скучай — отдыхай!
+
+<img width="653" height="758" alt="image" src="https://github.com/user-attachments/assets/b12a972b-7a0d-4d05-b2b6-c8f44efbed02" />
